@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1EcICA6gX6SiaDI3JHztulQIS8Zx7og+7LdS+lmLDFE0bhaFpbPvJJqf3bAygM2tJfgV1m+6h75uEBIa4OAtQ==",
+  "success": true,
+  "projectFilePath": "D:\\assigment\\Generics_Day13\\Generics_Day13\\Generics_Day13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tejuk\\.nuget\\packages\\nlog\\4.7.12\\nlog.4.7.12.nupkg.sha512",
+    "C:\\Users\\tejuk\\.nuget\\packages\\nlog.config\\4.7.12\\nlog.config.4.7.12.nupkg.sha512",
+    "C:\\Users\\tejuk\\.nuget\\packages\\nlog.schema\\4.7.12\\nlog.schema.4.7.12.nupkg.sha512"
+  ],
+  "logs": []
+}
